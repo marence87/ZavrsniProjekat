@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62327" started-at="2019-12-13T08:45:26 CET" finished-at="2019-12-13T08:46:28 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62327" started-at="2019-12-13T08:45:26 CET" finished-at="2019-12-13T08:46:28 CET">
+      <class name="tests.TravelCustomersTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.TravelCustomersTest@610694f1]" name="setup" is-config="true" duration-ms="5037" started-at="2019-12-13T08:45:26 CET" finished-at="2019-12-13T08:45:31 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:tests.TravelCustomersTest@610694f1]" name="loginTest" duration-ms="25734" started-at="2019-12-13T08:45:31 CET" finished-at="2019-12-13T08:45:57 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="goToCustomers()[pri:1, instance:tests.TravelCustomersTest@610694f1]" name="goToCustomers" duration-ms="14067" started-at="2019-12-13T08:45:57 CET" finished-at="2019-12-13T08:46:11 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCustomers -->
+        <test-method status="PASS" signature="editInfoTest()[pri:3, instance:tests.TravelCustomersTest@610694f1]" name="editInfoTest" duration-ms="17443" started-at="2019-12-13T08:46:11 CET" finished-at="2019-12-13T08:46:28 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editInfoTest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:tests.TravelCustomersTest@610694f1]" name="quit" is-config="true" duration-ms="0" started-at="2019-12-13T08:46:28 CET" finished-at="2019-12-13T08:46:28 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- tests.TravelCustomersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
